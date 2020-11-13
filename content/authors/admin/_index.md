@@ -20,7 +20,7 @@ social:
     link: https://scholar.google.com/citations?user=mpti8tQAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/hisomitdinov
 organizations:
   - name: University of Alabama
     url: https://www.ua.edu/
