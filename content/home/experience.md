@@ -25,9 +25,13 @@ date_format = "Jan 2006"
   date_start = "2015-08-15"
   date_end = ""
   description = """
-  Courses taught as a Full Instructor:
-  * EC413 - Economic Forecasting and Analysis          Spring, 2019, 2020;
-  * EC309 - Intermediate Macroeconomic           Fall, 2019; Summer, 2020;
+  Courses whith a full instructor role:
+  * EC413 - Economic Forecasting and Analysis (Spring, 2019, 2020);
+  * EC309 - Intermediate Macroeconomics (Fall, 2019; Summer, 2020);
+  
+  Courses whith a teaching assistant:
+  * EC571 - Econometrics 
+  
   """
 
 [[experience]]
@@ -35,8 +39,8 @@ date_format = "Jan 2006"
   company = "University X"
   company_url = ""
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2013-08-15"
+  date_end = "2015-05-15"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
