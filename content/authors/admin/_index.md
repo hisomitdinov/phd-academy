@@ -2,8 +2,8 @@
 title: Hasan Isomitdinov
 role: Doctoral Student
 avatar_filename: headshot1.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include International Finance, Applied
+  Macroeconomics, Applied Time Series Econometrics.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -22,8 +22,8 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: University of Alabama
+    url: https://www.ua.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
