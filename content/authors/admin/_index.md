@@ -5,16 +5,16 @@ avatar_filename: headshot1.jpeg
 bio: My research interests include International Finance, Applied
   Macroeconomics, Applied Time Series Econometrics.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - International Finance
+  - Applied Macroeconomics
+  - Applied Time Series Econometrics
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://www.linkedin.com/in/hasan-isomitdinov-06527a26/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
