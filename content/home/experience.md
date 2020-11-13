@@ -25,22 +25,30 @@ date_format = "Jan 2006"
   date_start = "2015-08-15"
   date_end = ""
   description = """
-  Courses whith a full instructor role:
-  * EC413 - Economic Forecasting and Analysis (Spring, 2019, 2020);
-  * EC309 - Intermediate Macroeconomics (Fall, 2019; Summer, 2020);
+  Courses as an Instructor:
+  * EC413 - Economic Forecasting and Analysis
+  * EC309 - Intermediate Macroeconomics
   
-  Courses whith a teaching assistant:
+  Courses as a Teaching Assistant:
   * EC571 - Econometrics 
-  
+  * EC531 - International Finance
+  * FI302 - Business Finance
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Graduate Teaching Assistant"
+  company = "Central Michigan University"
   company_url = ""
-  location = "California"
+  location = "Mt. Pleasant, MI"
   date_start = "2013-08-15"
   date_end = "2015-05-15"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  description = """
+  Courses as an Instructor:
+  * MTH105 - Intermediate Algebra
+    
+  Courses as a Teaching Assistant:
+  * ECO585 - Econometrics 
+  * ECO280 - Business Statistics
+  * ECO202 - Intermediate Microeconomics
+  """
 +++
