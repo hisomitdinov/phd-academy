@@ -2,8 +2,8 @@
 title: Hasan Isomitdinov
 role: Doctoral Student
 avatar_filename: headshot1.jpeg
-bio: My research interests include International Finance, Applied
-  Macroeconomics, Applied Time Series Econometrics.
+bio: My research interests include International Finance, Applied Macroeconomics
+  and Applied Time Series Econometrics.
 interests:
   - International Finance
   - Applied Macroeconomics
@@ -42,7 +42,6 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
+Hello! My name is Hasan and I am currently a PhD student at the University of Alabama (Roll Tide!). My research interest are concentrated in applications of the latest models in Time Series Econometrics. In particular, I am interested in applying dynamic factor models to understand sources of comovements in various macroeconomic aggregates across countries. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In addition to conducting research, I am very enthusiastic in
