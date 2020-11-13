@@ -44,4 +44,4 @@ highlight_name: false
 ---
 Hello! My name is Hasan and I am currently a PhD student at the University of Alabama (Roll Tide!). My research interest are concentrated in applications of the latest models in Time Series Econometrics. In particular, I am interested in applying dynamic factor models to understand sources of comovements in various macroeconomic aggregates across countries. 
 
-In addition to conducting research, I am very enthusiastic in
+In addition to conducting research, I am very enthusiastic about teaching. During my time at the University of Alabama, I have taught multiple sections of Intermediate Macroeconomics and Economic Forecasting, both face-to-face and online. My current duties include assisting my academic supervisor Prof. Junsoo Lee with undergraduate and graduate level Econometrics courses.
